@@ -8,3 +8,6 @@
 
 3. AMC
    - https://github.com/mit-han-lab/amc
+
+4. nni 실행 방법
+   - https://github.com/microsoft/nni
