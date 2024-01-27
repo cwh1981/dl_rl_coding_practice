@@ -1,5 +1,7 @@
 # efficientml_practice
 
+[Prunning]
+
 1. weight prunning with Mnist
    - https://github.com/philsaurabh/Neuron-Pruning-Demonstration/blob/main/Modified_Neuron_Model_Pruning.ipynb
 
