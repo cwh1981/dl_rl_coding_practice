@@ -1,4 +1,4 @@
-<img width="1051" alt="image" src="https://github.com/cwh1981/efficientml_practice/assets/8499055/a9384269-f0ce-4e46-a1bd-c67cf50ab064"># efficientml_practice
+# efficientml_practice
 
 [Prunning]
 <img width="300" alt="image" src="https://github.com/cwh1981/efficientml_practice/assets/8499055/d94ddd13-0a3d-4636-9819-6ac114289835">
