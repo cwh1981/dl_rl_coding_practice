@@ -1,6 +1,7 @@
 # efficientml_practice
 
 [Prunning]
+
 <img width="300" alt="image" src="https://github.com/cwh1981/efficientml_practice/assets/8499055/d94ddd13-0a3d-4636-9819-6ac114289835">
 
 1. weight prunning with Mnist
