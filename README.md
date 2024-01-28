@@ -30,7 +30,7 @@
    - Lottery Ticket Hypothesis
 <img width="300" alt="image" src="https://github.com/cwh1981/efficientml_practice/assets/8499055/a7e11648-ef3f-45d6-a8ab-60f5cfd975b5">
 
+6. Nvidia Tensor RT Sparsity
 
-
-5. nni 실행 방법
+7. nni 실행 방법
    - https://github.com/microsoft/nni
